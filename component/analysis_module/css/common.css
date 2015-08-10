@@ -1,0 +1,478 @@
+html, body {
+    font-family: "Microsoft YaHei","微软雅黑" ! important;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    background-color: #EBF0F3;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* PŘEDNAČÍTAČ */
+#prednacitac {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #FFFFFF;
+    z-index: 101;
+    width: 100%;
+    height: 100%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#prednacitac_animace {
+    position: relative;
+    width: 240px;
+    height: 29px;
+    top: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#prednacitac_animace span {
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: -4.2rem;
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.prednacitac_animace {
+    position: absolute;
+    top: 0;
+    background-color: #50C3F7;
+    width: 29px;
+    height: 29px;
+    -moz-animation-name: bounce_prednacitac_animace;
+    -moz-animation-duration: 1.3s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-direction: linear;
+    -moz-transform: scale(.3);
+    -moz-border-radius: 19px;
+    -webkit-animation-name: bounce_prednacitac_animace;
+    -webkit-animation-duration: 1.3s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: linear;
+    -webkit-transform: scale(.3);
+    -webkit-border-radius: 19px;
+    -o-animation-name: bounce_prednacitac_animace;
+    -o-animation-duration: 1.3s;
+    -o-animation-iteration-count: infinite;
+    -o-animation-direction: linear;
+    -o-transform: scale(.3);
+    -o-border-radius: 19px;
+    -ms-animation-name: bounce_prednacitac_animace;
+    -ms-animation-duration: 1.3s;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-direction: linear;
+    -ms-transform: scale(.3);
+    -ms-border-radius: 19px;
+    animation-name: bounce_prednacitac_animace;
+    animation-duration: 1.3s;
+    animation-iteration-count: infinite;
+    animation-direction: linear;
+    transform: scale(.3);
+    border-radius: 19px;
+}
+
+#prednacitac_animace_1 {
+    left: 0;
+    -moz-animation-delay: 0.52s;
+    -webkit-animation-delay: 0.52s;
+    -o-animation-delay: 0.52s;
+    -ms-animation-delay: 0.52s;
+    animation-delay: 0.52s;
+}
+
+#prednacitac_animace_2 {
+    left: 30px;
+    -moz-animation-delay: 0.65s;
+    -webkit-animation-delay: 0.65s;
+    -o-animation-delay: 0.65s;
+    -ms-animation-delay: 0.65s;
+    animation-delay: 0.65s;
+}
+
+#prednacitac_animace_3 {
+    left: 60px;
+    -moz-animation-delay: 0.78s;
+    -webkit-animation-delay: 0.78s;
+    -o-animation-delay: 0.78s;
+    -ms-animation-delay: 0.78s;
+    animation-delay: 0.78s;
+}
+
+#prednacitac_animace_4 {
+    left: 90px;
+    -moz-animation-delay: 0.91s;
+    -webkit-animation-delay: 0.91s;
+    -o-animation-delay: 0.91s;
+    -ms-animation-delay: 0.91s;
+    animation-delay: 0.91s;
+}
+
+#prednacitac_animace_5 {
+    left: 120px;
+    -moz-animation-delay: 1.04s;
+    -webkit-animation-delay: 1.04s;
+    -o-animation-delay: 1.04s;
+    -ms-animation-delay: 1.04s;
+    animation-delay: 1.04s;
+}
+
+#prednacitac_animace_6 {
+    left: 150px;
+    -moz-animation-delay: 1.17s;
+    -webkit-animation-delay: 1.17s;
+    -o-animation-delay: 1.17s;
+    -ms-animation-delay: 1.17s;
+    animation-delay: 1.17s;
+}
+
+#prednacitac_animace_7 {
+    left: 180px;
+    -moz-animation-delay: 1.3s;
+    -webkit-animation-delay: 1.3s;
+    -o-animation-delay: 1.3s;
+    -ms-animation-delay: 1.3s;
+    animation-delay: 1.3s;
+}
+
+#prednacitac_animace_8 {
+    left: 210px;
+    -moz-animation-delay: 1.43s;
+    -webkit-animation-delay: 1.43s;
+    -o-animation-delay: 1.43s;
+    -ms-animation-delay: 1.43s;
+    animation-delay: 1.43s;
+}
+
+@-moz-keyframes bounce_prednacitac_animace {
+    0% {
+        -moz-transform: scale(1);
+        background-color: #50C3F7;
+    }
+    100% {
+        -moz-transform: scale(.3);
+        background-color: #50C3F7;
+    }
+}
+
+@-webkit-keyframes bounce_prednacitac_animace {
+    0% {
+        -webkit-transform: scale(1);
+        background-color: #50C3F7;
+    }
+    100% {
+        -webkit-transform: scale(.3);
+        background-color: #50C3F7;
+    }
+}
+
+@-o-keyframes bounce_prednacitac_animace {
+    0% {
+        -o-transform: scale(1);
+        background-color: #50C3F7;
+    }
+    100% {
+        -o-transform: scale(.3);
+        background-color: #50C3F7;
+    }
+}
+
+@-ms-keyframes bounce_prednacitac_animace {
+    0% {
+        -ms-transform: scale(1);
+        background-color: #50C3F7;
+    }
+    100% {
+        -ms-transform: scale(.3);
+        background-color: #50C3F7;
+    }
+}
+
+@keyframes bounce_prednacitac_animace {
+    0% {
+        transform: scale(1);
+        background-color: #50C3F7;
+    }
+    100% {
+        transform: scale(.3);
+        background-color: #50C3F7;
+    }
+}
+
+/* Konec PŘEDNAČÍTAČ */
+
+
+/* side toolbar */
+#sideToolbar {
+    position: fixed;
+    bottom: 30px;
+    left: 84%;
+}
+#sideCatalog {
+    width: 180px;
+    height: 355px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    font-size: 14px;
+    /*font-family: 宋体;*/
+    line-height: 19px;
+    position: relative;
+    zoom: 1;
+    left: 10px;
+    display: none;
+}
+#sideCatalog #sideCatalog-sidebar {
+    top: 0;
+    width: 0;
+    height: 353px;
+    background-color: #eaeaea;
+    border: 1px solid #eaeaea;
+    border-top: 0;
+    border-bottom: 0;
+    position: absolute;
+    left: 5px;
+}
+#sideCatalog #sideCatalog-sidebar .sideCatalog-sidebar-top, #sideCatalog #sideCatalog-sidebar .sideCatalog-sidebar-bottom {
+    position: absolute;
+    left: -5px;
+    width: 10px;
+    height: 10px;
+    background: transparent url(../img/sideToolbar.png) 0 -199px no-repeat;
+    zoom: 1;
+    overflow: hidden;
+    top: 0;
+    cursor: pointer;
+}
+#sideCatalog-catalog {
+    height: 340px;
+    padding-left: 23px;
+    overflow: hidden;
+    margin-top: 18px;
+    position: relative;
+}
+#sideCatalog-catalog dl {
+    position: relative;
+    width: 175px;
+    zoom: 1;
+}
+.sideCatalog-item1, .sideCatalog-item2 {
+    position: relative;
+    padding: 0 7px;
+    zoom: 1;
+    margin: 0 0 6px 0;
+}
+#sideCatalog span.sideCatalog-index1 {
+    color: #999;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 14px;
+    padding-right: 5px;
+}
+#sideCatalog .sideCatalog-item1 a {
+    color: #555;
+    font-weight: bold;
+    text-decoration: none;
+}
+.sideCatalog-dot {
+    position: absolute;
+    height: 10px;
+    width: 6px;
+    font-size: 12px;
+    line-height: 12px;
+    background: transparent url(../img/sideToolbar.png) 0 -222px;
+    left: -20px;
+    top: 4px;
+    cursor: pointer;
+    overflow: hidden;
+}
+#sideCatalog .highlight span.sideCatalog-dot {
+    height: 13px;
+    width: 18px;
+    background: transparent url(../img/sideToolbar.png) -271px -38px no-repeat;
+    left: -23px;
+    top: 3px;
+}
+.sideCatalog-dot {
+    position: absolute;
+    height: 10px;
+    width: 6px;
+    font-size: 12px;
+    line-height: 12px;
+    background: transparent url(../img/sideToolbar.png) 0 -222px;
+    left: -20px;
+    top: 4px;
+    cursor: pointer;
+    overflow: hidden;
+}
+#sideCatalogBtn {
+    width: 45px;
+    height: 45px;
+    display: block;
+    background: transparent url(../img/sideToolbar.png) 0 0 no-repeat;
+    cursor: pointer;
+    margin-bottom: 5px;
+    position: relative;
+    margin-left: 10px;
+    display: block;
+}
+#sideToolbar-up {
+    display: block;
+    width: 45px;
+    height: 45px;
+    margin-left: 10px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    background: transparent url(../img/sideToolbar.png) -1px -62px no-repeat;
+    margin-bottom: 5px;
+}
+#sideToolbar-print {
+    display: block;
+    width: 45px;
+    height: 45px;
+    margin-left: 10px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    background: transparent url(../img/sideToolbar.png) -50px -200px no-repeat;
+    margin-bottom: 5px;
+}
+/* side toolbar */
+
+
+.fl {float: left;}
+.fr {float: right;}
+
+.w45p {width: 45%;}
+.w47p {width: 47%;}
+.w50p {width: 50%;}
+
+.ml2p {margin-left: 2%;}
+.ml5p {margin-left: 5%;}
+.ml10p {margin-left: 10%;}
+
+.mr5p {margin-right: 5%;}
+
+.ml60 {margin-left: 60px;}
+
+.mt10 {margin-top: 10px;}
+.mt20 {margin-top: 20px;}
+.mt30 {margin-top: 30px;}
+.mt40 {margin-top: 40px;}
+.mt50 {margin-top: 50px;}
+
+.clear {clear: both;}
+
+
+
+
+
+.scoreS {background-color: #0075c3; color: #FFF;}
+.scoreA {background-color: #1991cf; color: #FFF;}
+.scoreB {background-color: #339dd5; color: #FFF;}
+.scoreC {background-color: #8dc9e7; color: #FFF;}
+
+.scoreTop {background-color: #0F0; color: #FFF;}
+.scoreBottom {background-color: #F00; color: #FFF;}
+
+.reportBody {padding-bottom: 20px;}
+
+.reportHeader {height: 60px; width: 100%; background: #232323; padding: 1px 10%; text-align: center; position: relative; overflow: hidden;}
+.reportHeader .reportHeaderBg {position: absolute; width: 100%; height: 100%;}
+.reportHeader .logo {float:left; margin-top: 3px; width: 140px;}
+.reportHeader .title {flex: 1; color: #FFFFFF; font-size: 25px; line-height: 50px; margin-left: -30px;}
+.reportHeader .title-duration {font-size: 16px;}
+.reportHeader .score {float: right; line-height: 55px; color: #FFF;}
+
+.reportSubHeader {position: relative; min-height: 90px; background-color: #F6F7F9; color: #787676; margin-right: 0; width: 100%; padding: 0 10%; border-bottom: 1px #E6E3DF solid;}
+.reportSubHeader .intro {width: 100%; font-weight: 400; font-style: normal; font-size: 15px; color: #333333; /*float: left; margin-top: 15px;*/ padding-top: 15px; padding-left: 50px; text-indent:2em; clear: both;}
+.reportSubHeader .annotation {float: right; position: absolute; font-weight: 400; font-style: oblique; font-size: 12px; color: #999999; bottom: 5px; right: 10%;}
+
+.reportCard {width: 100%; padding: 0 16%; margin-top: 20px;}
+.reportCard .reportCardHeaderHandle {color:#333; text-decoration: none;}
+.reportCard .reportCardHeader {height: 60px; line-height: 60px; font-size: 24px; text-align: left; text-indent: .5em; background-color: #F5F5F5;}
+.reportCard .reportCardBody {font-size: 13px; line-height: 22px; padding: 5px 70px; padding-bottom:35px; background-color: #FFF; border: 1px solid #F1F1F1;}
+.reportCard .reportCardBody .pageHeader {height: 32px; font-size: 18px; color: #989898; border-bottom: 1px solid #CCCCCC; margin-top: 30px;}
+.reportCard .reportCardBody .pageContent {background-color: #FFF; border: 0; font-family: "Microsoft YaHei"; line-height: 22px;}
+.reportCard .reportCardBody .pageHeaderEm {font-weight: bold; font-size: 16px; margin-top: 20px;}
+.reportCard .reportCardBody .menuLink {text-decoration: none;}
+
+.reportCard .reportCardContentBody {width:100%; font-size: 13px; line-height: 22px; padding: 5px 10px; background-color: #FFF; border: 1px solid #F1F1F1;}
+.reportCard .reportCardContentBody .contentPageHeader {height: 60px; line-height: 55px; padding: 0 60px; margin-top: 5px; font-weight: 700; font-style: normal; font-size: 18px; color: #989898; position: relative;}
+.reportCard .reportCardContentBody .contentPageHeader .contentPageAnchor {text-decoration: none; color: #989898; posiiton: relative;}
+.reportCard .reportCardContentBody .contentPageHeader .contentPageAnchor .contentPageAnchorIcon {position: absolute; left: 40px; display: none;}
+.reportCard .reportCardContentBody .contentPageHeader .score {float: right; line-height: 55px; font-size: 17px; color: #666666; font-weight: normal;}
+.reportCard .reportCardContentBody .contentPageHeaderEm {font-weight: bold; padding: 0 60px; font-size: 16px; margin-top: 10px;}
+.reportCard .reportCardContentBody .contentSubPageHeader {height: 28px; font-size: 16px; color: #989898; border-bottom: 1px solid #CCCCCC; margin: 20px 60px 0 60px;}
+.reportCard .reportCardContentBody .contentSubPageHeader .title {font-weight: bold;}
+.reportCard .reportCardContentBody .contentSubPageHeader .annotation {color: #333333;}
+.reportCard .reportCardContentBody .contentSubPageP {padding-left: 60px; margin: 10px 0;background-color: #FFF; border: 0; font-family: "Microsoft YaHei"; line-height: 22px; font-size:15px; font-weight: bold;}
+.reportCard .reportCardContentBody .contentSubPageChart {margin: 10px 0; width: 100%; min-height: 300px;}
+.reportCard .reportCardContentBody .ct-chart {float: left; width: 45%; margin-left: 60px;}
+.reportCard .reportCardContentBody .ct-table {float: right; width: 45%; margin-right: 60px; margin-top: 10px;}
+.reportCard .reportCardContentBody .ct-download-button {float: right; margin-right: 5%;}
+.reportCard .reportCardContentBody .t-table {margin-left: 5%; margin-right: 5%; margin-top: 10px;}
+.reportCard .reportCardContentBody .c-chart {margin-left: 5%; margin-right: 5%;}
+
+.reportCard .reportCardContentBody .contentScore_S {background-color: #EBF8ED;}
+.reportCard .reportCardContentBody .contentScore_A {background-color: #DDF4F9;}
+.reportCard .reportCardContentBody .contentScore_B {background-color: #FFF6D9;}
+.reportCard .reportCardContentBody .contentScore_C {background-color: #FEE9DE;}
+
+.reportCard .reportCardBodyAppendix {font-size: 18px; padding: 35px 70px;}
+
+@media print {
+    html, body {font-family: "SimSun";}
+    /*html, body {
+        font-family: "Microsoft YaHei";
+        font-size: 12px;
+        margin: 0;
+        padding: 0;
+        background-color: #FFF;
+        overflow: hidden;
+    }*/
+    .reportHeader {padding: 0 0;}
+    .reportHeader .title {font-size: 32px; font-family: "SimHei"; font-weight: bold;}
+    .reportHeader .score {font-family: "SimHei";}
+    .reportSubHeader {padding: 0 0; min-height: 100px; border-bottom:1px #fcfcfc solid;}
+    .reportSubHeader .intro {font-size: 18px; margin-top: 5px; padding-right: 50px;}
+    .reportSubHeader .annotation {font-size: 14px; right: 10px; padding-right: 50px;}
+
+    .reportCard {padding: 0 0;}
+    .reportCard .reportCardHeader {font-size: 32px; font-family: "SimHei"; font-weight: bold; border-bottom: 1px #cccccc solid; text-indent: 0;}
+    .reportCard .reportCardBody {border: 0; padding: 0 50px;}
+    .reportCard .reportCardBody .pageHeader {font-size: 24px; font-family: "SimHei"; font-weight: bold;}
+    .reportCard .reportCardBody .pageHeaderEm {font-size: 18px; font-family: "SimHei"; /*font-weigh: bold;*/}
+    .reportCard .reportCardBody .pageContent {font-size: 18px; line-height: 30px; font-family: "SimSun";}
+
+    .reportCard .reportCardContentBody {padding: 5px 0;}
+    .reportCard .reportCardContentBody .contentPageHeader {padding: 0 10px; font-family: "SimHei"; font-size: 24px;}
+    .reportCard .reportCardContentBody .contentPageHeaderEm {padding: 0 50px; font-family: "SimHei"; font-size: 20px; }
+    .reportCard .reportCardContentBody .contentSubPageHeader {margin: 20px 10px 0 10px; font-family: "SimHei"; font-size: 20px; font-weight: bold;}
+    .reportCard .reportCardContentBody .contentSubPageP {padding-left: 60px; font-family: "SimSun"; font-size: 20px; font-weight: bold;}
+    .reportCard .reportCardContentBody .break-page {page-break-after:always;}
+    .reportCard .reportCardContentBody .ct-chart {float: left; width: 45%; margin-left: 10px;}
+    .reportCard .reportCardContentBody .ct-table {float: right; width: 45%; margin-right: 10px; font-family: "Microsoft YaHei"}
+    .reportCard .reportCardContentBody .t-table {font-family: "Microsoft YaHei"}
+    .reportCard .reportCardContentBody .ct-download-button {display: none;}
+    .reportCard .reportCardContentBody .c-chart {margin-left: -20px;}
+
+    .reportPreface {margin-top: 150px;}
+    .reportPreface, .reportResult, .reportMenu, .reportContent {page-break-after:always;}
+
+
+
+
+}

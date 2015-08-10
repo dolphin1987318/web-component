@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/echarts/chart" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/echarts/echarts-all.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/echarts/echarts-src.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/echarts/echarts.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/echarts/theme" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/es5-ie8/es5-sham.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/es5-ie8/es5-shim.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/jquery/jquery-1.9.1.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/common/jquery/jquery.cookie.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/A.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/B.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/C.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/D.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/S.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/android_icon.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/giant_logo.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/giant_logo_analysis.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/ios_icon.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/login_backgroud1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/login_backgroud2.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/qa_logo.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/sideToolbar.gif" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/component/analysis_module/img/sideToolbar.png" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
