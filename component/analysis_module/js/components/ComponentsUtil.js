@@ -1,6 +1,8 @@
 /**
  * Created by wangxufeng on 2015/8/6.
  */
+var React = require('react');
+var ContentSubPageChartBarLine = require('./ContentSubPageChartBarLine.react');
 
 var ComponentsUtil = {
     // 根据类型ID获取图表组件

@@ -8,10 +8,8 @@ var ReportCardHeader = require('./ReportCardHeader.react');
 var ReportAppendix = React.createClass({
     render: function() {
         var menuId = "appendix";
-        if (initDataLoaded) {
-            var appendixId = this.props.initData.menu_list.length - 1;
-            var menuId = "menu_" + appendixId;
-        }
+        var appendixId = this.props.initData.menu_list.length - 1;
+        var menuId = "menu_" + appendixId;
 
         return (
             <div id={menuId} className="reportCard reportAppendix">

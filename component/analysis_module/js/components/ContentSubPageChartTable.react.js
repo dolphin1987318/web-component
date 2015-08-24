@@ -5,6 +5,10 @@ var React = require('react');
 var ContentSubPageTable = require('./ContentSubPageTable.react');
 var GenChartDOMByType = require('./ComponentsUtil').GenChartDOMByType;
 
+var ReactBootstrap = require('react-bootstrap');
+var Button = ReactBootstrap.Button;
+
+
 /*
  左侧图表右侧表格
  type 图表类型

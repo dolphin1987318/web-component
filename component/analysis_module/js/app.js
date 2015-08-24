@@ -13,7 +13,7 @@ var am = util.QueryString.GetValue('m');
 
 switch (am) {
     case mConst.MODULE_LOST:
-        var ReportBody = require('./components/ReportBody_Lost.react');
+        var ReportBody = require('./components/mod_lost/ReportBody_Lost.react');
         break;
     default:
         var ReportBody = require('./components/ReportBody_Err.react');

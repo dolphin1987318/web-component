@@ -9,13 +9,11 @@ var ReportCardBody = require('./ReportCardBody.react');
 // 目录
 var ReportMenu = React.createClass({
     render: function() {
-        if (initDataLoaded) {
-            var menuNodes = this.props.initData.menu_list.map(function (menuItem, key) {
-                return (
-                    <SegContent header={menuItem} headerAnchor={"menu_"+key} key={key}/>
-                );
-            });
-        }
+        var menuNodes = this.props.initData.menu_list.map(function (menuItem, key) {
+            return (
+                <SegContent header={menuItem} headerAnchor={"menu_"+key} key={key}/>
+            );
+        });
 
         return (
             <div className="reportCard reportMenu">

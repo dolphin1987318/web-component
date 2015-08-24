@@ -2,6 +2,7 @@
  * Created by wangxufeng on 2015/8/6.
  */
 var React = require('react');
+var initConst = require('../constants/Init');
 
 // 内容分段标题
 var ContentPageHeader = React.createClass({
@@ -22,7 +23,7 @@ var ContentPageHeader = React.createClass({
                     <span>{menuItem}</span>
                 </a>
                 <div className="score">
-                    <span>该项得分：</span><img className="reportScore" src={imgPath + this.props.score + ".png"}/>
+                    <span>该项得分：</span><img className="reportScore" src={initConst.IMG_PATH + this.props.score + ".png"}/>
                 </div>
             </div>
         )

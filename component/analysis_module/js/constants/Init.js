@@ -3,7 +3,7 @@
  */
 
 module.exports = {
-    INIT_URL: '../assets/data/dcenter/analysis_module/mod_lost.json',
-    DATA_URL: '../assets/data/dcenter/analysis_module/simulate_mod_lost.json',
-    IMG_PATH: '../assets/img/'
+    INIT_URL: '../../assets/data/mod_lost.json',
+    DATA_URL: '../../assets/data/simulate_mod_lost.json',
+    IMG_PATH: '../../img/'
 };

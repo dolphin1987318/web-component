@@ -9,14 +9,12 @@ var ReportCardBody = require('./ReportCardBody.react');
 // 结论与建议
 var ReportResult = React.createClass({
     render: function() {
-        if (initDataLoaded && dataLoaded) {
-            reportResult = this.props.reportResult;
-            var resultNodes = this.props.initData.result_list.map(function (resultItem, key) {
-                return (
-                    <SegContent header={resultItem.title} content={reportResult[key].content} em={reportResult[key].em} key={key}/>
-                );
-            });
-        }
+        reportResult = this.props.reportResult;
+        var resultNodes = this.props.initData.result_list.map(function (resultItem, key) {
+            return (
+                <SegContent header={resultItem.title} content={reportResult[key].content} em={reportResult[key].em} key={key}/>
+            );
+        });
 
         return (
             <div id="result" className="reportCard reportResult">

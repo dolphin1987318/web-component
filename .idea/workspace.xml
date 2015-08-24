@@ -2,80 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab93afa5-3dde-451a-8eca-719ea37264c6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/A.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/B.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/C.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/D.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/S.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/android_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/giant_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/giant_logo_analysis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/ios_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/login_backgroud1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/login_backgroud2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/qa_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/sideToolbar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/img/sideToolbar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ComponentsUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeader.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeaderEm.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartBox.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartTable.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageHeader.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageP.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTable.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTableBox.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/constants/Init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/constants/Modules.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportAppendix.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportBody_Err.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportBody_Lost.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportCardBody.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportCardHeader.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportContent_Lost.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportGuider.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportHeader.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportMenu.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportPreface.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportResult.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportSubHeader.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/SegContent.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/theme/blue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/bootstrap/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/bootstrap/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/bootstrap/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/bootstrap/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/chord.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/echarts-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/echarts-src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/echarts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/es5-ie8/es5-sham.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/es5-ie8/es5-shim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/eventRiver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/force.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/funnel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/gauge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/jquery/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/jquery/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/k.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/radar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/common/echarts/chart/scatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/util/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/wangxufeng.xml" />
-      <change type="DELETED" beforePath="D:\workspace\web-component\component\analysis_module\lost.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartBarLine.react.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/DrawCharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/InitData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/ReportContent_Lost.react.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/assets/data/mod_lost.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/analysis_module/assets/data/simulate_mod_lost.json" />
+      <change type="DELETED" beforePath="D:\workspace\web-component\component\analysis_module\js\components\ReportContent_Lost.react.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ComponentsUtil.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ComponentsUtil.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeader.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeader.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartTable.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartTable.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTable.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTable.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTableBox.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTableBox.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/constants/Init.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/constants/Init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ReportAppendix.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportAppendix.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ReportGuider.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportGuider.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ReportMenu.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportMenu.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ReportPreface.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportPreface.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/components/ReportResult.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/ReportResult.react.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/app.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/js/bundle.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/index.html" afterPath="$PROJECT_DIR$/component/analysis_module/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/analysis_module/package.json" afterPath="$PROJECT_DIR$/component/analysis_module/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\workspace\web-component\component\analysis_module\js\components\ReportBody_Lost.react.js" afterPath="$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/ReportBody_Lost.react.js" />
     </list>
     <ignored path="web-component.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,21 +45,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/component/analysis_module/index.html">
+      <file leaf-file-name="DrawCharts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/DrawCharts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReportBody_Lost.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/ReportBody_Lost.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/component/analysis_module/js/app.js">
+      <file leaf-file-name="ReportHeader.react.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportHeader.react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37532467">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.30022076">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/analysis_module/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.12">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -140,35 +111,46 @@
         <option value="$PROJECT_DIR$/component/analysis_module/lost.html" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/util.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/util/QueryString.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/util/util.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/constants/InitConstants.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/constants/init.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/constants/Modules.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportBody_Err.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/app.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportHeader.react.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportSubHeader.react.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/SegContent.react.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportCardHeader.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportPreface.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportResult.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportMenu.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeader.react.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeaderEm.react.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageHeader.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTable.react.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageP.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ComponentsUtil.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartBox.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/GenChartDOMByType.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportCardBody.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportPreface.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/test/data/mod_lost.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportBody_Lost.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/test/data/Simulate_mod_lost.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTable.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportAppendix.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportMenu.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportResult.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportContent_Lost.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeader.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartBarLine.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ComponentsUtil.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartTable.react.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTableBox.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/GenChartDOMByType.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportContent_Lost.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportCardBody.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportAppendix.react.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportGuider.react.js" />
-        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportBody_Lost.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/constants/InitData.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/assets/data/mod_lost.json" />
+        <option value="$PROJECT_DIR$/component/analysis_module/assets/data/simulate_mod_lost.json" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/constants/Init.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/util/util.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/DrawCharts.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/app.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/ReportContent_Lost.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/DrawCharts.js" />
         <option value="$PROJECT_DIR$/component/analysis_module/index.html" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/ReportBody_Lost.react.js" />
+        <option value="$PROJECT_DIR$/component/analysis_module/js/components/ReportHeader.react.js" />
       </list>
     </option>
   </component>
@@ -233,7 +215,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -249,20 +230,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web-component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,14 +265,85 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analysis_module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analysis_module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analysis_module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/webApp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -322,11 +360,11 @@
       <recent name="D:\workspace\web-component\component\analysis_module\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\web-component\component\analysis_module\js\components\mod_lost" />
+      <recent name="D:\workspace\web-component\component\analysis_module\js" />
       <recent name="D:\workspace\web-component\component\analysis_module\js\util" />
       <recent name="D:\workspace\web-component\component\analysis_module\common\es5-ie8" />
       <recent name="D:\workspace\web-component\component\analysis_module\common" />
-      <recent name="D:\workspace\web-component\component\analysis_module\css\bootstrap" />
-      <recent name="D:\workspace\web-component\component\analysis_module\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -383,15 +421,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="7" />
-    <editor active="false" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2118019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17202072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17098446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -422,95 +460,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/common/jquery/jquery-1.9.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/common/jquery/jquery.cookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/common/es5-ie8/es5-sham.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/common/bootstrap/bootstrap-theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/flux-todomvc/todomvc-common/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11486486">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/flux-todomvc/todomvc-common/.bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/flux-todomvc/todomvc-common/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22006473">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/flux-todomvc/todomvc-common/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35598704">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/common/echarts/chart/k.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3576052">
-          <caret line="0" column="2143" selection-start-line="0" selection-start-column="2143" selection-end-line="0" selection-end-column="2143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/img/sideToolbar.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.491453">
-          <caret line="251" column="45" selection-start-line="251" selection-start-column="45" selection-end-line="251" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/common/es5-ie8/es5-shim.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/component/flux-todomvc/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.1923075">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,15 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12713675">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52307695">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2361111">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,9 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5106838">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27457264">
           <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38247862">
           <caret line="25" column="31" selection-start-line="20" selection-start-column="14" selection-end-line="25" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41773504">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,39 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3576052">
           <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/constants/Init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12713675">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/constants/Modules.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09081197">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportSubHeader.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18162394">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,57 +527,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="380" column="4" selection-start-line="380" selection-start-column="4" selection-end-line="380" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/constants/Modules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11953042">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportMenu.react.js">
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.49199572">
+          <caret line="251" column="45" selection-start-line="251" selection-start-column="45" selection-end-line="251" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportPreface.react.js">
+    <entry file="file://$PROJECT_DIR$/PATENTS">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="77" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/SegContent.react.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportHeader.react.js">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageP.react.js">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17075774">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39274278">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.769131">
+          <caret line="466" column="17" selection-start-line="466" selection-start-column="17" selection-end-line="466" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21052632">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeaderEm.react.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartBox.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -682,192 +622,244 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageP.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeader.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06225681">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartTable.react.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartBox.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeader.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68770224">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ComponentsUtil.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41262135">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTable.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTableBox.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49514562">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/util/util.js">
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageTable.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3090909">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.33203632">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentPageHeaderEm.react.js">
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ContentSubPageChartBarLine.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13246754">
-          <caret line="8" column="77" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.12451362">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportCardHeader.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41948053">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportContent_Lost.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3090909">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/bundle.js">
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/assets/data/simulate_mod_lost.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/assets/data/mod_lost.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32171583">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ComponentsUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31128404">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/constants/Init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16601816">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportAppendix.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45654994">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportBody_Err.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29053178">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportCardBody.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22077923">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportAppendix.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41948053">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportResult.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46363637">
-          <caret line="23" column="73" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.12451362">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="16" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportGuider.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.287013">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0038910506">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportMenu.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.539559">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportPreface.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06225681">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="26" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportResult.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56031126">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportSubHeader.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3527886">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/SegContent.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39429313">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/webApp/重构/react-backstage/assets/js/dcenter/analysis_module/lost.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37354085">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/InitData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.102564104">
+          <caret line="302" column="2" selection-start-line="302" selection-start-column="2" selection-end-line="302" selection-end-column="2" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#0#46#0" expanded="false" />
+            <element signature="e#84#4294#0" expanded="false" />
+            <element signature="e#4310#21987#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportBody_Lost.react.js">
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/util/util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19870129">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.41025642">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportBody_Err.react.js">
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportCardHeader.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24285714">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.08547009">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/analysis_module/index.html">
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/ReportContent_Lost.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.22222222">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/component/analysis_module/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37532467">
+        <state vertical-scroll-proportion="0.2905983">
           <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/DrawCharts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.12">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/mod_lost/ReportBody_Lost.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/analysis_module/js/components/ReportHeader.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30022076">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding />
         </state>
       </provider>

@@ -9,13 +9,11 @@ var ReportCardBody = require('./ReportCardBody.react');
 // 序言
 var ReportPreface = React.createClass({
     render: function() {
-        if (initDataLoaded) {
-            var prefaceNodes = this.props.initData.preface_list.map(function (prefaceItem, key) {
-                return (
-                    <SegContent header={prefaceItem.title} content={prefaceItem.content} key={key}/>
-                );
-            });
-        }
+        var prefaceNodes = this.props.initData.preface_list.map(function (prefaceItem, key) {
+            return (
+                <SegContent header={prefaceItem.title} content={prefaceItem.content} key={key}/>
+            );
+        });
 
         return (
             <div id="preface" className="reportCard reportPreface">

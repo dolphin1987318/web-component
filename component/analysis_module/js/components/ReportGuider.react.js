@@ -3,6 +3,10 @@
  */
 var React = require('react');
 
+var ReactBootstrap = require('react-bootstrap');
+var OverlayTrigger = ReactBootstrap.OverlayTrigger,
+    Tooltip = ReactBootstrap.Tooltip;
+
 // 右下导航栏
 var ReportGuider = React.createClass({
     handleSideCatalogBtn: function () {
@@ -45,31 +49,29 @@ var ReportGuider = React.createClass({
     render: function() {
         this.autoShowGuider();
 
-        if (initDataLoaded) {
-            var self = this;
-            var menuNodes = this.props.prependData.map(function (menuItem, key) {
-                return (
-                    <dd className="sideCatalog-item1" id={"sideToolbar-item-0-"+(key+1)} key={key}>
-                        <span className="sideCatalog-index1">{key+1}</span>
-                        <a href="javascript:void(0);" onClick={self.handleAnchor.bind(self, menuItem.id)}>{menuItem.name.substring(2)}</a>
-                        <span className="sideCatalog-dot"></span>
-                    </dd>
-                );
-            });
+        var self = this;
+        var menuNodes = this.props.prependData.map(function (menuItem, key) {
+            return (
+                <dd className="sideCatalog-item1" id={"sideToolbar-item-0-"+(key+1)} key={key}>
+                    <span className="sideCatalog-index1">{key+1}</span>
+                    <a href="javascript:void(0);" onClick={self.handleAnchor.bind(self, menuItem.id)}>{menuItem.name.substring(2)}</a>
+                    <span className="sideCatalog-dot"></span>
+                </dd>
+            );
+        });
 
-            var keyOffset = menuNodes.length + 1;
-            var menuNodesMore = this.props.initData.menu_list.map(function (menuItem, key) {
-                return (
-                    <dd className="sideCatalog-item1" id={"sideToolbar-item-0-"+(key+keyOffset)} key={key+keyOffset}>
-                        <span className="sideCatalog-index1">{key+keyOffset}</span>
-                        <a href="javascript:void(0);" onClick={self.handleAnchor.bind(self, "menu_"+key)}>{menuItem.substring(2)}</a>
-                        <span className="sideCatalog-dot"></span>
-                    </dd>
-                );
-            });
+        var keyOffset = menuNodes.length + 1;
+        var menuNodesMore = this.props.initData.menu_list.map(function (menuItem, key) {
+            return (
+                <dd className="sideCatalog-item1" id={"sideToolbar-item-0-"+(key+keyOffset)} key={key+keyOffset}>
+                    <span className="sideCatalog-index1">{key+keyOffset}</span>
+                    <a href="javascript:void(0);" onClick={self.handleAnchor.bind(self, "menu_"+key)}>{menuItem.substring(2)}</a>
+                    <span className="sideCatalog-dot"></span>
+                </dd>
+            );
+        });
 
-            menuNodes = menuNodes.concat(menuNodesMore);
-        }
+        menuNodes = menuNodes.concat(menuNodesMore);
 
         return (
             <div className="reportGuider">

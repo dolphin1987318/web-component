@@ -4,6 +4,10 @@
 var React = require('react');
 var ContentSubPageTable = require('./ContentSubPageTable.react');
 
+var ReactBootstrap = require('react-bootstrap');
+var Button = ReactBootstrap.Button;
+
+
 /*
  整行表格
  tableInit 表格初始化参数
